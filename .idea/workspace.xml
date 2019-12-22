@@ -129,7 +129,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.webpack" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -190,7 +190,7 @@
       <workItem from="1576524852200" duration="980000" />
       <workItem from="1576744974148" duration="3591000" />
       <workItem from="1577013918983" duration="48000" />
-      <workItem from="1577014069341" duration="397000" />
+      <workItem from="1577014069341" duration="568000" />
     </task>
     <servers />
   </component>
